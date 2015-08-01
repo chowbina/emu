@@ -1,6 +1,8 @@
 ## Main Issues
 
-    Commerce data provides data that is optimal for planning and research of general socioeconomic and demographic patterns. Generally, increased geographic specificity equates to longer time steps. Shorter time steps equates to more geographic aggregation. 
+Commerce data provides data that is optimal for planning and research of general socioeconomic and demographic patterns. 
+
+Generally, increased geographic specificity equates to longer time steps. Shorter time steps equates to more geographic aggregation. 
 
     The data does not provide sufficient resolution to develop high resolution market segmentation, which likely requires new factors of business quality and activity. 
 
