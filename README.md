@@ -14,7 +14,7 @@ US Census Bureau’s ACS-5-year Census Tract Summaries ([Census Site] (http://ww
 
 Description: The American Community Survey (ACS) is collected annually by the US Census Bureau and aids in monitoring trends and prepare for future data collection efforts. The 5-year Census tract summaries data contains tract-level aggregates for 2009 through 2013. 
 
-## US Census Tract Shapefiles ([here] (https://www.census.gov/cgi-bin/geo/shapefiles2014/layers.cgi))
+US Census Tract Shapefiles ([here] (https://www.census.gov/cgi-bin/geo/shapefiles2014/layers.cgi))
 
 Description: In order to visualize tracts or conduct spatial join operations, the US Census Tract Shapefiles (vector polygon) are required.
 
