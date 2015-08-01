@@ -1,12 +1,10 @@
+For this MVP, we hope to find a correlation between income and number of Starbucks stores in Meclenburg County, North Carolina. We collected the data for each of the 29 area zipcodes of Meclenburg County. A D3 Map Visualization is built with color overlay of per capita income on counties and bubbles showing number of starbucks in that county.
+
 ## Main Issues
 
 Commerce data provides data that is optimal for planning and research of general socioeconomic and demographic patterns. Generally, increased geographic specificity equates to longer time steps. Shorter time steps equates to more geographic aggregation. 
 
-The data does not provide sufficient resolution to develop high resolution market segmentation, which likely requires new factors of business quality and activity. 
-
-## Important Points for Commerce
-
-Demonstrating cross-compatibility of mature Commerce data and emerging data from novel sources through market segmentation
+The data does not provide sufficient resolution to develop high resolution market segmentation, which likely requires new factors of business quality and activity. By leveraging emerging data sources from tech sector, imagine what new insight emerging data can provide to improve the public’s understanding of American life and how the combination of mature and emerging may vastly improve investment decisions.
 
 ## Getting Data
 
